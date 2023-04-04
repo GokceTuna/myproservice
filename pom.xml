@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sample</groupId>
-	<artifactId>Sample-Business-Service</artifactId>
+	<artifactId>myproservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
@@ -27,8 +27,8 @@
 	<dependencies>
 		<dependency>
 			<groupId>com.sample</groupId>
-			<artifactId>Sample-Shared</artifactId>
-			<version>0.0.3-SNAPSHOT</version>
+			<artifactId>prolib</artifactId>
+			<version>0.0.4-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
